@@ -1,5 +1,5 @@
 # This project is retired, archived, and no longer supported. You are welcome to continue to use and fork the repository.
-
+[![Build Status](https://dev.azure.com/devopsEssentials12/Tailspin/_apis/build/status/tulikapgit.ContosoAir?branchName=master)](https://dev.azure.com/devopsEssentials12/Tailspin/_build/latest?definitionId=15&branchName=master)
 
 # Microsoft.Github CI Demo
 
